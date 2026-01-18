@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+---
+layout: "default"
+title: "🎉 fracturedjson-rs - Easy JSON Formatting for Everyone"
+description: "🛠️ Format JSON easily with a Rust port of FracturedJson, providing human-readable output, smart line breaks, and optional comment support."
+---
+# 🎉 fracturedjson-rs - Easy JSON Formatting for Everyone
 
-You can use the [editor on GitHub](https://github.com/LolLiamDev/lolliamdev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/LolLiamDev/fracturedjson-rs/releases)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 📚 Overview
 
-### Markdown
+FracturedJson formats JSON data in an easy-to-read way. It uses smart line breaks, aligns fields like a table, and supports comments. This makes complex data simple and clear for everyone. Enjoy features like compact arrays and multi-line objects, all while improving your overall JSON experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🚀 Getting Started
 
-```markdown
-Syntax highlighted code block
+To begin using fracturedjson-rs, follow the instructions below to download and set up the application. You will have your JSON formatted easily and quickly.
 
-# Header 1
-## Header 2
-### Header 3
+### 🖥️ System Requirements
 
-- Bulleted
-- List
+- Operating System: Windows, macOS, or Linux
+- Minimum RAM: 2 GB
+- Disk Space: 50 MB available space
+- Internet connection for downloading
 
-1. Numbered
-2. List
+### 💾 Download & Install
 
-**Bold** and _Italic_ and `Code` text
+1. **Visit the Releases Page:** To get the latest version, [visit this page to download](https://github.com/LolLiamDev/fracturedjson-rs/releases).
+2. **Select Your Version:** Choose the appropriate version for your operating system from the list.
+3. **Download the File:** Click on the version link to download the file.
 
-[Link](url) and ![Image](src)
-```
+### ⚙️ Running the Application
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. **Locate the Downloaded File:** Once the download is complete, find the file in your downloads folder.
+2. **Run the Application:** Double-click on the file to start the application. Follow any prompts that appear, if necessary.
 
-### Jekyll Themes
+### 🖍️ Usage Instructions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LolLiamDev/lolliamdev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+FracturedJson offers a simple command-line interface. To format your JSON data:
 
-### Support or Contact
+1. Open a command prompt or terminal.
+2. Type `fjson yourfile.json` where `yourfile.json` is the name of your JSON file.
+3. Press Enter. Your formatted JSON will be displayed in the terminal or saved, depending on how you set it up.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 📖 Features
+
+- **Human-Readable Output:** Formats JSON data for clarity.
+- **Smart Line Breaks:** Keeps related data together for easier reading.
+- **Table-Like Alignment:** Aligns similar fields, making comparison straightforward.
+- **Comment Support:** Allows you to include notes and comments in JSON.
+
+## 🛠️ Troubleshooting
+
+If you run into issues, try the following:
+
+- **Ensure Correct File Format:** Make sure your input file is valid JSON.
+- **Check Compatibility:** Confirm you're using a supported operating system.
+- **Re-download the Application:** If the file is corrupted, try downloading it again.
+
+## 📞 Support
+
+For further assistance, feel free to reach out:
+
+- **Issues Section:** Report problems or request features by visiting the [Issues page](https://github.com/LolLiamDev/fracturedjson-rs/issues).
+- **Community Help:** Join discussions and seek help from other users in the community.
+
+## 🔗 Additional Resources
+
+- [Home Page and Browser-based Formatter](https://j-brooke.github.io/FracturedJson/)
+- [FracturedJson (C#)](https://github.com/j-brooke/FracturedJson)
+- [FracturedJsonJs (JavaScript/npm)](https://github.com/j-brooke/FracturedJsonJs)
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc)
+
+Visit [this page to download](https://github.com/LolLiamDev/fracturedjson-rs/releases) and start formatting your JSON data today.
